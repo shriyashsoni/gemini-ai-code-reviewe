@@ -1,6 +1,3 @@
-## Google Cloud credits are provided for this project `#VertexAISprint`
-Thanks, [Google](https://github.com/google) :)
-
 # Gemini AI Code Reviewer
 
 A GitHub Action that automatically reviews pull requests using Google's Gemini AI.
